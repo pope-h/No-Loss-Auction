@@ -1,0 +1,23 @@
+{
+  "name": "lossless-auction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@bonadocs/docgen": "^1.0.1-alpha.3",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2"
+  }
+}
